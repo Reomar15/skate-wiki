@@ -1,0 +1,113 @@
+body{
+    background-image: url(https://acdn.hu/autoesmotor/2021/07/12/100-PCS-Skateboard-Fashion-brand-Logo-Waterproof-Sticker-For-Luggage-Guaitar-Skateboard-Phone-Laptop-Moto-Bicycle-2.jpg);
+    background-repeat: repeat;
+    background-position: top left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer {
+    font-size: 30px;
+    text-align: center;
+    margin: 10px;
+}
+header{
+    border-style: solid;
+    background-color: white;
+    margin: 10px;
+    padding: 15px;
+}
+nav{
+    border-style: solid;
+    background-color: white;
+    margin: 10px;
+    padding: 15px;
+}
+main{
+    border-style: solid;
+    background-color: white;
+    margin: 10px;
+    padding: 15px;
+}
+footer{
+    border-style: solid;
+    background-color: white;
+    margin: 10px;
+}
+h1{
+    text-align: center; 
+}
+h2.titulo{
+    text-align: center;
+}
+ul{
+    list-style-type: none; 
+}
+nav ul{
+   
+    padding: 5px; 
+    display: flex;
+    text-align: center;
+     margin: 0px 0px 0px 25%;
+    
+}
+nav li{
+    border: 2px solid black;
+    background-color: rgb(240, 240, 240);
+}
+ul li{
+    padding: 10px;
+    margin: 5px 0; 
+}
+img.top{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 400px;
+}
+img{
+    height: 300px;
+    width: auto;
+}
+img.principal{
+    height: 200px;
+}
+iframe{
+    height: 300px;
+}
+img.menor{
+    display: block;
+    width: auto;
+    height: 200px;
+}
+img.arruela{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 200px;
+}
+img.arruelas{ 
+    height: 100px;
+}
+img.arruelass{ 
+    height: 200px;
+}
+img.arruelasss{ 
+    height: 350px;
+}
+a:link {
+    color: rgb(0, 0, 255);
+    text-decoration: none;
+}
+a:hover {
+    color: black;
+    text-decoration: none;
+}
+a:visited {
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
+a:active {
+    color: black;
+    text-decoration: none;
+}
